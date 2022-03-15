@@ -42,14 +42,6 @@ const articlesSchema = mongoose.model('articles', new mongoose.Schema({
     },
     
     
-    
-    
-
-
-
-
-
-
 
 }))
 module.exports = articlesSchema

@@ -4,7 +4,7 @@ const  app = express();
 const PORT = 3500; 
 
  // parse application/json
- //const DB=  require("./config/database")
+ const DB=  require("./config/database")
 
 
  //app c un middelware contient toutes les fctionnalités et les méthodes que offre express
